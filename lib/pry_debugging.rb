@@ -4,7 +4,5 @@ def plus_two(num)
 	binding.pry
 end
 
-pry_debugging_spec.rb
-
-#{plus_two(3)}
+pry_debugging_sp
 
